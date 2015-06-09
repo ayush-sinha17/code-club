@@ -2,4 +2,5 @@ Mat Harden
 Paul Wyborn
 Carlos Fernandez
 David Szaroleta
+Alex Nash
 
